@@ -29,7 +29,7 @@ A RESTful API for managing events and user registrations, built with Node.js, Ex
    DB_PORT=5432
    DB_NAME=event_api
    DB_USER=postgres
-   DB_PASS=Cls@1234
+   DB_PASS=your_db_password
    ```
 4. **Run database migrations:**
    (Instructions will be added after models are defined)
